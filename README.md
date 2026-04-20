@@ -1,36 +1,78 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# DevelopersHub Corporation
+**Modern Technology Agency Website**
 
-## Getting Started
+A sleek, futuristic, and high-performance frontend website built for **DevelopersHub** – a next-generation technology agency offering software development, AI solutions, digital marketing, and more.
 
-First, run the development server:
+This project was developed as part of the **Front-End Development Internship Task (3 Weeks)**.
 
+## 🚀 Live Demo
+**[View Live Website](https://frontend-internship-devhub.vercel.app/)** 
+
+## 👤 Project Details
+| Detail | Information |
+| :--- | :--- |
+| **Intern Name** | Neha Fahim |
+| **Location** | Karachi, Pakistan |
+| **Selected Project** | DevelopersHub Corporation Website |
+| **Submission Deadline** | 28 April 2026 |
+
+## ✨ Features
+- **Fully Responsive:** Optimized for Mobile, Tablet & Desktop.
+- **Dark Futuristic UI:** Sleek, modern aesthetic with smooth animations.
+- **Interactive Meeting Scheduler:** Calendar integration with real-time availability.
+- **Advanced UI Elements:** Typewriter terminal effect, professional contact form.
+- **Portfolio:** Showcase for 8+ service domains.
+- **Micro-interactions:** High-quality transitions using Framer Motion.
+- **Performance:** Fast loading and SEO-friendly architecture.
+
+### Required Pages Implemented
+- [x] Home
+- [x] About Us
+- [x] Services
+- [x] Portfolio / Work
+- [x] Contact
+- [x] Meeting Scheduler / Booking Page
+
+## 🛠️ Tech Stack
+- **Next.js 14** (App Router) with TypeScript
+- **Tailwind CSS** for styling
+- **Framer Motion** for animations
+- **Lucide React** for icons
+- **React Hooks** (useState, useEffect)
+
+## 📁 How to Run Locally
+
+1. **Clone the repository:**
 ```bash
+git clone [[https://github.com/yourusername/developershub.git](https://github.com/NehaFahim/frontend-internship-devhub)
+cd developershub
+Install dependencies:
+
+Bash
+npm install
+
+Start the development server:
+
+Bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Access:
+Open http://localhost:3000 in your browser.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+📋 Internship Task Compliance
+This project strictly follows the internship requirements:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Selected only one project (Option 1).
 
-## Learn More
+All required pages and features implemented.
 
-To learn more about Next.js, take a look at the following resources:
+Fully responsive and professional design.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Interactive UI elements and functional booking interface.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Clean, well-structured, and original code.
 
-## Deploy on Vercel
+📬 Contact Information
+Email: hello@developershub.corp
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Location: Karachi, Pakistan
